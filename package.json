@@ -1,0 +1,24 @@
+{
+  "name": "convert-ipv4-to-int32",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanshuyou/convertIPv4toInt32.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhanshuyou/convertIPv4toInt32/issues"
+  },
+  "homepage": "https://github.com/zhanshuyou/convertIPv4toInt32#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
